@@ -3,7 +3,11 @@
 Control your mouse using just your fingers and a webcam!  
 This project uses **OpenCV**, **MediaPipe**, and **PyAutoGUI** to track your hand in real time and lets you move your mouse cursor or click with a simple pinch gesture.
 
-![Demo Banner](https://i.imgur.com/JMbkS1I.gif)
+![image](https://github.com/user-attachments/assets/a7eb78a3-7714-4740-8163-6c1757d8f64d)
+
+![image](https://github.com/user-attachments/assets/4444c200-0434-4091-b96a-52946dcfdc08)
+
+
 
 ---
 
@@ -17,11 +21,6 @@ This project uses **OpenCV**, **MediaPipe**, and **PyAutoGUI** to track your han
 🛑 Start and Stop controls to safely exit
 
 ---
-
-## 📸 Demo Preview
-
-https://github.com/your-username/virtual-mouse-hand-tracking/assets/demo-video.mp4  
-*(Insert your demo video or GIF link above)*
 
 ---
 
