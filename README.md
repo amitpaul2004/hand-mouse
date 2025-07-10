@@ -49,5 +49,6 @@ This project uses **OpenCV**, **MediaPipe**, and **PyAutoGUI** to track your han
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/virtual-mouse-hand-tracking.git
+git clone https://github.com/amitpaul2004/hand-mouse.git
+
 
